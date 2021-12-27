@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\Majmuni\bin\Debug\Majmuni.exe.config
+C:\Users\filip\source\repos\Majmuni\bin\Debug\Majmuni.exe
+C:\Users\filip\source\repos\Majmuni\bin\Debug\Majmuni.pdb
+C:\Users\filip\source\repos\Majmuni\obj\Debug\Majmuni.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\Majmuni\obj\Debug\Majmuni.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\source\repos\Majmuni\obj\Debug\Majmuni.Form1.resources
+C:\Users\filip\source\repos\Majmuni\obj\Debug\Majmuni.Properties.Resources.resources
+C:\Users\filip\source\repos\Majmuni\obj\Debug\Majmuni.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Majmuni\obj\Debug\Majmuni.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Majmuni\obj\Debug\Majmuni.exe
+C:\Users\filip\source\repos\Majmuni\obj\Debug\Majmuni.pdb
